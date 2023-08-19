@@ -14,4 +14,4 @@ result
 tmp
 .ipynb_checkpoints
 *.so
-
+.png
