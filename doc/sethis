@@ -1,0 +1,1 @@
+def t1 ( a ) : return a**5
